@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Model files
+*.pt
+*.pth
+*.weights
+
+# Videos and output workspace
+*.mp4
+*.avi
+*.mkv
+workspace/
+
+# Temporary and OS files
+~$*.docx
+.DS_Store
+Thumbs.db
